@@ -1,0 +1,10 @@
+D:\politech 2.0\c#\rgr\rgr\bin\Debug\rgr.exe.config
+D:\politech 2.0\c#\rgr\rgr\bin\Debug\rgr.exe
+D:\politech 2.0\c#\rgr\rgr\bin\Debug\rgr.pdb
+D:\politech 2.0\c#\rgr\rgr\obj\Debug\rgr.csproj.AssemblyReference.cache
+D:\politech 2.0\c#\rgr\rgr\obj\Debug\rgr.Properties.Resources.resources
+D:\politech 2.0\c#\rgr\rgr\obj\Debug\rgr.csproj.GenerateResource.cache
+D:\politech 2.0\c#\rgr\rgr\obj\Debug\rgr.csproj.CoreCompileInputs.cache
+D:\politech 2.0\c#\rgr\rgr\obj\Debug\rgr.exe
+D:\politech 2.0\c#\rgr\rgr\obj\Debug\rgr.pdb
+D:\politech 2.0\c#\rgr\rgr\obj\Debug\rgr.Form1.resources
